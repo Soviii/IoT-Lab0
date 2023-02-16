@@ -1,4 +1,7 @@
-# IoT-Lab0
+# IoT-Lab0 (by Sophia Canja & Sovial Sonzeu)
+
+## Youtube link to demo video
+https://www.youtube.com/watch?v=BY9bZ_YQzgc
 
 ## Source files changed are: 
  main.cpp, platform.ini
